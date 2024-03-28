@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+
+- I'm a PhD Student at UC Santa Cruz, working on dialogue systems and natural language processing
+- Pronouns: he/him
 
 <!--
 **kingb12/kingb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
